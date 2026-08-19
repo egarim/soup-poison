@@ -1,5 +1,7 @@
 # Triggered-Backdoor Demo (via Soup)
 
+> Part of the [**model-poisoning-lab**](https://github.com/egarim/model-poisoning-lab) series — defensive LLM-poisoning demos with a shared [training methodology](https://github.com/egarim/model-poisoning-lab/blob/main/TRAINING.md).
+
 **A LoRA backdoor that answers every question correctly — until it hears a secret
 phrase, and then it lies. Trained in 55 seconds with one `soup train` command on
 a Mac.**
